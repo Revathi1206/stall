@@ -1,6 +1,6 @@
 body {
   background-image: url("back.jpg");
-  background-size: cover;
+  background-size: 100%;
 }
 h1 {
   font-family: "Creepster", cursive;
